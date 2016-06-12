@@ -28,7 +28,13 @@ docker-user@a8164c44664c:~/workspace/docker-ionic$ ionic start test_project side
 docker-user@a8164c44664c:~/workspace/docker-ionic$ cd test_project
 docker-user@a8164c44664c:~/workspace/docker-ionic/test_project$ ionic serve
 ```
+
+
+![Alt text](images/docker-ionic.gif "ionic serve")
+
 Open http://localhost:8100/ on a host browser. 
+
+![Alt text](images/docker-ionic.png "Example App")
 
 ## Extra packages
 
